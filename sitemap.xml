@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://aksis.ru/</loc>
+    <lastmod>2026-11-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://aksis.ru/img/detail.jpg</image:loc></image:image>
+    <image:image><image:loc>https://aksis.ru/img/construction.jpg</image:loc></image:image>
+    <image:image><image:loc>https://aksis.ru/img/mount-on-car.jpg</image:loc></image:image>
+    <image:image><image:loc>https://aksis.ru/img/prototypes.jpg</image:loc></image:image>
+    <video:video>
+      <video:thumbnail_loc>https://aksis.ru/img/poster-install.jpg</video:thumbnail_loc>
+      <video:title>Как установить магнитное крепление номера АКСИС</video:title>
+      <video:description>Пошаговая установка магнитных держателей номерного знака АКСИС за 2 минуты.</video:description>
+      <video:content_loc>https://aksis.ru/video/install.mp4</video:content_loc>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://aksis.ru/img/poster-compare.jpg</video:thumbnail_loc>
+      <video:title>Чем магнитное крепление номера АКСИС лучше аналогов</video:title>
+      <video:description>Сравнение магнитных держателей АКСИС с магнитными рамками и креплением на саморезы.</video:description>
+      <video:content_loc>https://aksis.ru/video/compare.mp4</video:content_loc>
+    </video:video>
+  </url>
+</urlset>
